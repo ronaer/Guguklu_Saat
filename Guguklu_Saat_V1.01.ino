@@ -6,7 +6,7 @@
 
   -----------MODIFIED / ADDED PARTS---------------
   TR/izmir/Nisan/2022
-  Modified by Dr.TRonik YouTube:
+  Modified by Dr.TRonik YouTube: https://youtu.be/afD9WCIdP5M
   -12h-->24h
   -Cuckoo animation settled between 9h - 21h
   -7219 brightness adjusted to hours
