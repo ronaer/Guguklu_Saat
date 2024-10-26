@@ -28,7 +28,7 @@
   GPIO 4 / D2- Tx (SoftSerial to comunicate with the DFPlayer mini)
 
   GPIO 0 /  D3 - LED Blue
-  GPIO 4 /  D2 - LED Green
+  GPIO 2 /  D4 - LED Green
   GPIO 15 / D8- LED Red
 
   GPIO 12 / D6- CS  of Led Matrix Display
