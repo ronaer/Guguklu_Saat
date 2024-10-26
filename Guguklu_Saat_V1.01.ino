@@ -21,7 +21,7 @@
   ------------------------------------------------
 
   Hardware Connections:
-  GĞIO 1 - Tx
+  GPIO 1 - Tx
   GPIO 3 - Rx
 
   GPIO 5 / D1- Rx (SoftSerial to comunicate with the DFPlayer mini)
