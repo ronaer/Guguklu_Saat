@@ -21,21 +21,21 @@
   ------------------------------------------------
 
   Hardware Connections:
-  D1 - Tx
-  D3 - Rx
+  GĞIO 1 - Tx
+  GPIO 3 - Rx
 
-  D5 - Rx (SoftSerial to comunicate with the DFPlayer mini)
-  D4 - Tx (SoftSerial to comunicate with the DFPlayer mini)
+  GPIO 5 / D1- Rx (SoftSerial to comunicate with the DFPlayer mini)
+  GPIO 4 / D2- Tx (SoftSerial to comunicate with the DFPlayer mini)
 
-  D0 - LED Blue
-  D2 - LED Green
-  D15- LED Red
+  GPIO 0 /  D3 - LED Blue
+  GPIO 4 /  D2 - LED Green
+  GPIO 15 / D8- LED Red
 
-  D12- CS of Led Matrix Display
-  D13- DIN of Led Matrix Display
-  D14- CLK of Led Matrix Display
+  GPIO 12 / D6- CS  of Led Matrix Display
+  GPIO 13 / D7- DIN of Led Matrix Display
+  GPIO 14 / D5- CLK of Led Matrix Display
 
-  D16- Servo
+  GPIO 16 / D0 - Servo
 *******************************************************************************/
 
 /********************************************************************
