@@ -6,7 +6,7 @@
  /_____/_/  (_)_/ /_/ |_|\____/_/ /_/_/_/|_|  
 
  Kasım 2024 İzmir MAX7219 4'lü modul ile NTP saat, derece, nem, takvim, kayar yazı
- https://youtu.be/YZslXzsWp9M
+https://youtu.be/GgSOlx42XnY
   
   Hardware Connections:    
   GPIO 12 / D6- CS  of Led Matrix Display
